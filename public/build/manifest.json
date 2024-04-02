@@ -1,0 +1,17 @@
+{
+  "resources/images/poto_1.jpg": {
+    "file": "assets/poto_1-Bt8xgcCg.jpg",
+    "src": "resources/images/poto_1.jpg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-BziwsqBe.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-D-sv12UV.css",
+    "src": "resources/sass/app.scss",
+    "isEntry": true
+  }
+}
